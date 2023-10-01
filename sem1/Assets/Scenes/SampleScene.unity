@@ -1321,3 +1321,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cube: {fileID: 2088277934}
+  speed: 0.7
